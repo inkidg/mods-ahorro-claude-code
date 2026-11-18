@@ -1,7 +1,7 @@
 
 {
   "name": "mods-ahorro-claude-code",
-  "owner": { "name": "TU-USUARIO-GITHUB" },
+  "owner": { "name": "inkidg" },
   "plugins": [
     { "name": "el-capataz",  "source": "./el-capataz" },
     { "name": "el-fogonero", "source": "./el-fogonero" },
