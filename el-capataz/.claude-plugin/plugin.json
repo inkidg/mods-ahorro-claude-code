@@ -1,0 +1,6 @@
+{
+  "name": "el-capataz",
+  "version": "0.1.0",
+  "description": "Reparte las tareas de busqueda al modelo barato (Haiku) y deja pensar al fuerte, para que tu limite dure mas.",
+  "types": "./types/index.d.ts"
+}

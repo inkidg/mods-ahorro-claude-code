@@ -1,0 +1,6 @@
+{
+  "name": "el-vigia",
+  "version": "0.1.0",
+  "description": "Panel en vivo de consumo: limite semanal, relleno del contexto, quien gasta (por modelo) y coste estimado por API.",
+  "types": "./types/index.d.ts"
+}

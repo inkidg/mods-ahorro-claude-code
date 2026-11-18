@@ -1,0 +1,10 @@
+
+{
+  "name": "mods-ahorro-claude-code",
+  "owner": { "name": "TU-USUARIO-GITHUB" },
+  "plugins": [
+    { "name": "el-capataz",  "source": "./el-capataz" },
+    { "name": "el-fogonero", "source": "./el-fogonero" },
+    { "name": "el-vigia",    "source": "./el-vigia" }
+  ]
+}

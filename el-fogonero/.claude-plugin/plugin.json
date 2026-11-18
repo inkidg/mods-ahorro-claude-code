@@ -1,0 +1,6 @@
+{
+  "name": "el-fogonero",
+  "version": "0.1.0",
+  "description": "Vigila la temperatura de la cache de contexto y te avisa cuanto costaria recalentarla si la dejas enfriar.",
+  "types": "./types/index.d.ts"
+}
